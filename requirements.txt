@@ -1,7 +1,7 @@
 numpy==1.16.4
 pandas==0.25.0
 gym==0.14.0
-jupyterlab==1.1.4
+jupyterlab==1.2.21
 tensorforce==0.4.3
 talib-binary==0.4.19
 stable-baselines==2.8.0
